@@ -1,4 +1,4 @@
-package model
+package depantmodel
 
 import (
 	"database/sql"
